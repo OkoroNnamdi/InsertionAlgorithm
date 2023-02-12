@@ -1,0 +1,16 @@
+C:\Users\solan\Desktop\ASP\InsertionSortAlgorithm\InsertionSortAlgorithm\bin\Debug\net5.0\InsertionSortAlgorithm.exe
+C:\Users\solan\Desktop\ASP\InsertionSortAlgorithm\InsertionSortAlgorithm\bin\Debug\net5.0\InsertionSortAlgorithm.deps.json
+C:\Users\solan\Desktop\ASP\InsertionSortAlgorithm\InsertionSortAlgorithm\bin\Debug\net5.0\InsertionSortAlgorithm.runtimeconfig.json
+C:\Users\solan\Desktop\ASP\InsertionSortAlgorithm\InsertionSortAlgorithm\bin\Debug\net5.0\InsertionSortAlgorithm.runtimeconfig.dev.json
+C:\Users\solan\Desktop\ASP\InsertionSortAlgorithm\InsertionSortAlgorithm\bin\Debug\net5.0\InsertionSortAlgorithm.dll
+C:\Users\solan\Desktop\ASP\InsertionSortAlgorithm\InsertionSortAlgorithm\bin\Debug\net5.0\InsertionSortAlgorithm.pdb
+C:\Users\solan\Desktop\ASP\InsertionSortAlgorithm\InsertionSortAlgorithm\obj\Debug\net5.0\InsertionSortAlgorithm.csproj.AssemblyReference.cache
+C:\Users\solan\Desktop\ASP\InsertionSortAlgorithm\InsertionSortAlgorithm\obj\Debug\net5.0\InsertionSortAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\solan\Desktop\ASP\InsertionSortAlgorithm\InsertionSortAlgorithm\obj\Debug\net5.0\InsertionSortAlgorithm.AssemblyInfoInputs.cache
+C:\Users\solan\Desktop\ASP\InsertionSortAlgorithm\InsertionSortAlgorithm\obj\Debug\net5.0\InsertionSortAlgorithm.AssemblyInfo.cs
+C:\Users\solan\Desktop\ASP\InsertionSortAlgorithm\InsertionSortAlgorithm\obj\Debug\net5.0\InsertionSortAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\solan\Desktop\ASP\InsertionSortAlgorithm\InsertionSortAlgorithm\obj\Debug\net5.0\InsertionSortAlgorithm.dll
+C:\Users\solan\Desktop\ASP\InsertionSortAlgorithm\InsertionSortAlgorithm\obj\Debug\net5.0\refint\InsertionSortAlgorithm.dll
+C:\Users\solan\Desktop\ASP\InsertionSortAlgorithm\InsertionSortAlgorithm\obj\Debug\net5.0\InsertionSortAlgorithm.pdb
+C:\Users\solan\Desktop\ASP\InsertionSortAlgorithm\InsertionSortAlgorithm\obj\Debug\net5.0\InsertionSortAlgorithm.genruntimeconfig.cache
+C:\Users\solan\Desktop\ASP\InsertionSortAlgorithm\InsertionSortAlgorithm\obj\Debug\net5.0\ref\InsertionSortAlgorithm.dll
